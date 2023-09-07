@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi mgl 👋
 
-<!--
-**MrCastroIA/MrCastroIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+**MrCastroIA/MrCastroIA**
 - 🔭 I’m currently working on ...
+
+
+
 - 🌱 I’m currently learning ...
+
+
+
 - 👯 I’m looking to collaborate on ...
+
+
+
 - 🤔 I’m looking for help with ...
+
+
+
 - 💬 Ask me about ...
+
+
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
+
+
 - ⚡ Fun fact: ...
 -->
+![GitH](https://github.com/MrCastroIA/MrCastroIA/assets/61329307/9fbe589c-a9f4-430e-bfbd-09fcbc70de9b)
+
+
