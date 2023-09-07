@@ -1,33 +1,23 @@
-# Hi mgl 👋
+# Hi, I'm Castro, I live in Brazil and I study Computer Science at IFMA as a hobby.
+
+<a href="https://www.imagensanimadas.com/cat-bandeira-do-brasil-742.htm"><img src="https://www.imagensanimadas.com/data/media/742/bandeira-brasil-imagem-animada-0012.gif" border="0" alt="bandeira-brasil-imagem-animada-0012" /></a>
 
 
 **MrCastroIA/MrCastroIA**
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
+chess game
+
+<a href="https://www.imagensanimadas.com/cat-xadrez-613.htm"><img src="https://www.imagensanimadas.com/data/media/613/xadrez-imagem-animada-0079.gif" border="0" alt="xadrez-imagem-animada-0079" /></a>
 
 
-
--🌱 I’m currently learning ...
-
+-🌱 I’m currently learning python, java (mobile), C, C++
 
 
- -👯 I’m looking to collaborate on ...
+- 📫 How to reach me: joaovictor1945@live.com
 
 
-
--🤔 I’m looking for help with ...
-
-
-
--💬 Ask me about ...
-
-
-
-- 📫 How to reach me: ...
-
-
-
--⚡ Fun fact: ...
--->
 ![GitH](https://github.com/MrCastroIA/MrCastroIA/assets/61329307/9fbe589c-a9f4-430e-bfbd-09fcbc70de9b)
 
 
+        
+       
