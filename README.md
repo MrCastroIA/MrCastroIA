@@ -26,3 +26,24 @@ java (mobile), C, C++
 
         
        
+<!--START_SECTION:chessStats-->
+chess-stats-action.yml
+
+name: Chess Games & Stats Action
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update readme with your chess stats and games
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Balastrong/chess-stats-action@main
+        with:
+          CHESS_USERNAME: <Your chess.com strawlyon>
+
+          <!--END_SECTION:chessStats-->
