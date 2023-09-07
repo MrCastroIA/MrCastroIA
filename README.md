@@ -25,14 +25,11 @@ java (mobile), C, C++
 
 
         
-       
-<START_SECTION:chessStats>
 
 
 
 
 
+<!--START_SECTION:chessStats-->
 
-
-
-          <END_SECTION:chessStats>
+<!--END_SECTION:chessStats-->
