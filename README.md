@@ -21,7 +21,8 @@ java (mobile), C, C++
 - 📫 How to reach me: joaovictor1945@live.com <a href="https://www.imagensanimadas.com/cat-e-mail-235.htm"><img src="https://www.imagensanimadas.com/data/media/235/e-mail-imagem-animada-0155.gif" border="0" alt="e-mail-imagem-animada-0155" /></a>
 
 
-<a href="https://media2.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy.webp?cid=790b7611b4wkecw652savoh0n8ydq317xqdz4k560wul9btc&ep=v1_gifs_search&rid=giphy.webp&ct=g" /></a>
+<img src="https://media2.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy.webp?cid=790b7611b4wkecw652savoh0n8ydq317xqdz4k560wul9btc&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="Texto alternativo">
+
 
         
 
