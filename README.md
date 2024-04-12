@@ -21,11 +21,10 @@ java (mobile), C, C++
 - 📫 How to reach me: joaovictor1945@live.com <a href="https://www.imagensanimadas.com/cat-e-mail-235.htm"><img src="https://www.imagensanimadas.com/data/media/235/e-mail-imagem-animada-0155.gif" border="0" alt="e-mail-imagem-animada-0155" /></a>
 
 
-![GitH](https://github.com/MrCastroIA/MrCastroIA/assets/61329307/9fbe589c-a9f4-430e-bfbd-09fcbc70de9b)
+<img src="https://github.com/MrCastroIA/MrCastroIA/assets/61329307/9fbe589c-a9f4-430e-bfbd-09fcbc70de9b" alt="zigzag" />
 
 
         
-<img src="https://jpbongiovanni.github.io/PythonFunctionLibrary/movies/zigzag.gif" alt="zigzag" />
 
 
 
