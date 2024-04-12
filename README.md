@@ -17,8 +17,10 @@ java (mobile), C, C++
 
 
 
+- 📫 How to reach me: joaovictor1945@live.com 
+<a href="https://www.imagensanimadas.com/cat-e-mail-235.htm"><img src="https://www.imagensanimadas.com/data/media/235/e-mail-imagem-animada-0155.gif" border="0" alt="e-mail-imagem-animada-0155" /></a> 
 
-<a href="https://www.imagensanimadas.com/cat-e-mail-235.htm"><img src="https://www.imagensanimadas.com/data/media/235/e-mail-imagem-animada-0155.gif" border="0" alt="e-mail-imagem-animada-0155" /></a> - 📫 How to reach me: joaovictor1945@live.com 
+
 
 
 
