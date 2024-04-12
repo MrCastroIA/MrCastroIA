@@ -26,6 +26,9 @@ java (mobile), C, C++
 
 
 
+
+
+
 <a href="https://giphy.com/search/COMPUTING"><img src="https://media.giphy.com/media/5rFwR7z6bX5Pk2m3rQ/giphy.gif?cid=790b7611l6act6m55sxw2ef6dxy36ybib5huhhdolq5w8iyi&ep=v1_gifs_search&rid=giphy.gif&ct=g" border="0" alt="xadrez-imagem-animada-0079" /></a>
 
 
