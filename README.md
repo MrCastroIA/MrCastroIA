@@ -1,25 +1,35 @@
 # Hi, I'm Castro, I live in Brazil and I study Computer Science at IFMA as a hobby.
 
-[![Bandeira do Brasil](https://www.imagensanimadas.com/data/media/742/bandeira-brasil-imagem-animada-0012.gif)](https://www.imagensanimadas.com/cat-bandeira-do-brasil-742.htm)
+<a href="https://www.imagensanimadas.com/cat-bandeira-do-brasil-742.htm"><img src="https://www.imagensanimadas.com/data/media/742/bandeira-brasil-imagem-animada-0012.gif" border="0" alt="bandeira-brasil-imagem-animada-0012" /></a>
 
-## About Me
 
-- 🔭 I’m currently working on a chess game.
+**MrCastroIA/MrCastroIA**
+- 🔭 I’m currently working on 
+chess game
 
-[![Xadrez](https://www.imagensanimadas.com/data/media/613/xadrez-imagem-animada-0079.gif)](https://www.imagensanimadas.com/cat-xadrez-613.htm)
+<a href="https://www.imagensanimadas.com/cat-xadrez-613.htm"><img src="https://www.imagensanimadas.com/data/media/613/xadrez-imagem-animada-0079.gif" border="0" alt="xadrez-imagem-animada-0079" /></a>
 
-- 🌱 I’m currently learning Python, Java (mobile), C, C++.
 
-<div style="position: relative;">
-  <a href="https://www.imagensanimadas.com/cat-e-mail-235.htm">
-    <img src="https://www.imagensanimadas.com/data/media/235/e-mail-imagem-animada-0155.gif" alt="E-mail Animado" style="position: absolute; animation: moveEmail 2s infinite linear;">
-  </a>
-</div>
+-🌱 I’m currently learning
+python <a href="https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa"/></a>
 
-<style>
-@keyframes moveEmail {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(10px); }
-  100% { transform: translateX(0); }
-}
-</style>
+java (mobile), C, C++
+
+
+
+
+- 📫 How to reach me: joaovictor1945@live.com <a href="https://www.imagensanimadas.com/cat-e-mail-235.htm"><img src="https://www.imagensanimadas.com/data/media/235/e-mail-imagem-animada-0155.gif" border="0" alt="e-mail-imagem-animada-0155" /></a>
+
+
+![GitH](https://github.com/MrCastroIA/MrCastroIA/assets/61329307/9fbe589c-a9f4-430e-bfbd-09fcbc70de9b)
+
+
+        
+
+
+
+
+
+<!--START_SECTION:chessStats-->
+
+<!--END_SECTION:chessStats-->
