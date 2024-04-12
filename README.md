@@ -21,10 +21,14 @@ java (mobile), C, C++
 - 📫 How to reach me: joaovictor1945@live.com <a href="https://www.imagensanimadas.com/cat-e-mail-235.htm"><img src="https://www.imagensanimadas.com/data/media/235/e-mail-imagem-animada-0155.gif" border="0" alt="e-mail-imagem-animada-0155" /></a>
 
 
-<iframe src="https://giphy.com/embed/FFYuwUiNlnU599cWwT" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GitHub-cheers-champagne-bottle-FFYuwUiNlnU599cWwT">via GIPHY</a></p>
 
 
-        
+
+        <img src="URL do gif" alt="Texto alternativo">
+<img src="https://giphy.com/embed/FFYuwUiNlnU599cWwT" alt="Texto alternativo">
+<img src="URL do gif" alt="Texto alternativo">
+<img src="URL do gif" alt="Texto alternativo">
+
 
 
 
