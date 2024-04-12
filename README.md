@@ -20,16 +20,25 @@ java (mobile), C, C++
 - 📫 How to reach me: joaovictor1945@live.com
 <a href="https://www.imagensanimadas.com/cat-e-mail-235.htm"><img src="https://www.imagensanimadas.com/data/media/235/e-mail-imagem-animada-0155.gif" border="0" alt="e-mail-imagem-animada-0155" /></a> 
 
+_
 
 
+_
 
 
-
-
-
+_
 
 
 <a href="https://giphy.com/search/COMPUTING"><img src="https://media.giphy.com/media/5rFwR7z6bX5Pk2m3rQ/giphy.gif?cid=790b7611l6act6m55sxw2ef6dxy36ybib5huhhdolq5w8iyi&ep=v1_gifs_search&rid=giphy.gif&ct=g" border="0" alt="xadrez-imagem-animada-0079" /></a>
+
+_
+
+_
+
+_
+
+<a href="https://giphy.com/search/hacker"><img src="https://media.giphy.com/media/axnFGXT6MzvgY/giphy.gif?cid=ecf05e47hvp1mz5xq7hk53q9svnjhmgls8ltsazeiyhflz94&ep=v1_gifs_search&rid=giphy.gif&ct=g" border="0" alt="e-mail-imagem-animada-0155" /></a> 
+
 
 
 <!--START_SECTION:chessStats-->
