@@ -27,7 +27,7 @@ java (mobile), C, C++
         
 
 
-
+theme: jekyll-theme-hacker
 
 
 <!--START_SECTION:chessStats-->
