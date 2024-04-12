@@ -24,7 +24,6 @@ java (mobile), C, C++
 
 
 
-        <img src="URL do gif" alt="Texto alternativo">
 <img src="https://giphy.com/embed/FFYuwUiNlnU599cWwT" alt="Texto alternativo">
 <img src="URL do gif" alt="Texto alternativo">
 <img src="URL do gif" alt="Texto alternativo">
