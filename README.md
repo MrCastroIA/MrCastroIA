@@ -10,6 +10,16 @@
 
 - 🌱 I’m currently learning Python, Java (mobile), C, C++.
 
-- 📫 How to reach me: joaovictor1945@live.com
+<div style="position: relative;">
+  <a href="https://www.imagensanimadas.com/cat-e-mail-235.htm">
+    <img src="https://www.imagensanimadas.com/data/media/235/e-mail-imagem-animada-0155.gif" alt="E-mail Animado" style="position: absolute; animation: moveEmail 2s infinite linear;">
+  </a>
+</div>
 
-[![E-mail](https://www.imagensanimadas.com/data/media/235/e-mail-imagem-animada-0155.gif)](https://www.imagensanimadas.com/cat-e-mail-235.htm)
+<style>
+@keyframes moveEmail {
+  0% { transform: translateX(0); }
+  50% { transform: translateX(10px); }
+  100% { transform: translateX(0); }
+}
+</style>
